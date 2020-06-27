@@ -1,2 +1,4 @@
 # bio
-this is the description of the reposatory. this reposatory has been updated.
+* I added some text on the paragraph to say a little more about myself
+* linked my portafolio to my resume 
+* I changed the background color
